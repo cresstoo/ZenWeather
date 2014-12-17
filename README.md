@@ -11,3 +11,8 @@ I spent about 3 hours in Jakelin's [Swift Weather App](http://www.imooc.com/lear
 - CocoaPods Installation
 - Prototyping with Interface Builder & Storyboard
 
+## Screenshots
+
+![1](https://raw.githubusercontent.com/cresstoo/ZenWeather/master/snapshot1.png)
+
+![2](https://raw.githubusercontent.com/cresstoo/ZenWeather/master/snapshot2.png)
