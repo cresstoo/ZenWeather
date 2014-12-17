@@ -9,5 +9,6 @@
 #ifndef ZenWeather_ZenWeather_Bridging_Header_h
 #define ZenWeather_ZenWeather_Bridging_Header_h
 
-
 #endif
+
+#import <AFNetworking/AFNetworking.h>
