@@ -6,7 +6,7 @@ I spent about 3 hours in Jakelin's [Swift Weather App](http://www.imooc.com/lear
 
 ## What I learned
 
-- How to setup an iOS Dev enviroment
+- How to setup an iOS Dev environment
 - Xcode Basic Usage
 - CocoaPods Installation
 - Prototyping with Interface Builder & Storyboard
